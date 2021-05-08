@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StudyWebApi",
+    "\\StudyWebApi\\StudyWebApi"
   ],
+  "SelectedNode": "\\StudyWebApi\\StudyWebApi",
   "PreviewInSolutionExplorer": false
 }
